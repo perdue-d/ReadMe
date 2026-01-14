@@ -8,3 +8,10 @@ A classic acrade game remade into an app to be plaed anywhere and anytime. Pinba
 - Very simple controls where you tap to move the paddles and hit the ball
 - A score board that keeps score
 - A global leaderboard that can be seen after a round of pinball
+## How features are used
+- HTML: able to login and create a name that will put a leaderboard all can see
+- CSS: allows the score to be counted and the ball to move with reason
+- React: allows the login and leaderboard to exist
+- Service: allows the leaderboard to update when a new score comes in
+- DB: stores leaderboard
+- Websocket: changes all players leaderboard when one updates
