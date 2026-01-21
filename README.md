@@ -17,5 +17,6 @@ A classic acrade game remade into an app to be plaed anywhere and anytime. Pinba
 - Websocket: changes all players leaderboard when one updates
 ## Sketches
 <img width="3024" height="4032" alt="Unknown png" src="https://github.com/user-attachments/assets/9266be86-82c2-4e4d-8967-1632794a9139" />
-# Start up AWS Assignment
+
+## Start up AWS Assignment
 - mediocorepinball.click.
