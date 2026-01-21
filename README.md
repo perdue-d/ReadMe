@@ -19,4 +19,4 @@ A classic acrade game remade into an app to be plaed anywhere and anytime. Pinba
 <img width="3024" height="4032" alt="Unknown png" src="https://github.com/user-attachments/assets/9266be86-82c2-4e4d-8967-1632794a9139" />
 
 ## Start up AWS Assignment
-- mediocorepinball.click.
+- http://mediocorepinball.click/
