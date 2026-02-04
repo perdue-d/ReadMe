@@ -120,3 +120,30 @@ footer p {
   margin: 0.75rem 0 0;
   color: var(--muted);
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+}
+
+th, td {
+  padding: 0.65rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid rgba(42, 47, 58, 0.8);
+}
+
+th {
+  color: var(--accent2);
+  background: rgba(10, 12, 16, 0.6);
+}
+
+tr:hover td {
+  background: rgba(118, 190, 210, 0.08);
+}
+@media (max-width: 520px) {
+  main { padding: 1rem; }
+  nav { gap: 0.35rem; }
+  nav a { padding: 0.3rem 0.45rem; }
+}
