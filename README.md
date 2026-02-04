@@ -20,3 +20,17 @@ A classic acrade game remade into an app to be plaed anywhere and anytime. Pinba
 
 ## Start up AWS Assignment
 - http://mediocorepinball.click/
+
+
+## HTML deliverable
+For this deliverable I built out the structure of my application using HTML.
+
+- I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
+- HTML pages - Two HTML page that represent the ability to login and vote.
+- Proper HTML element usage - I just used div elements for everything.
+- Links - The login page automatically links to the voter page. The voter page contains links for every voting choice.
+- Text - Each of the voting choices is represented by a textual description.
+- 3rd party API placeholder - Placeholder for calls to OpenAI.
+- Images - I couldn't figure out how to include an image and so I didn't do this. 😔
+- DB/Login - Input box and submit button for login. The voting choices represent data pulled from the database.
+- WebSocket - The count of voting results represent the tally of realtime votes.
