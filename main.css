@@ -84,3 +84,29 @@ p strong { color: var(--accent2); }
 
 a { color: var(--accent); }
 a:hover { color: var(--accent2); }
+input[type="text"],
+input[type="password"] {
+  width: min(420px, 100%);
+  padding: 0.6rem 0.75rem;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(10, 12, 16, 0.75);
+  color: var(--text);
+}
+
+button {
+  cursor: pointer;
+  border: 1px solid rgba(118, 190, 210, 0.45);
+  background: rgba(118, 190, 210, 0.15);
+  color: var(--text);
+  padding: 0.55rem 0.85rem;
+  border-radius: 12px;
+  font-weight: 600;
+  transition: transform 120ms ease, background 120ms ease, border-color 120ms ease;
+}
+
+button:hover {
+  transform: translateY(-1px);
+  background: rgba(118, 190, 210, 0.22);
+  border-color: rgba(246, 239, 158, 0.45);
+}
