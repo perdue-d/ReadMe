@@ -110,3 +110,13 @@ button:hover {
   background: rgba(118, 190, 210, 0.22);
   border-color: rgba(246, 239, 158, 0.45);
 }
+footer {
+  padding: 0 0 1.5rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+footer p {
+  margin: 0.75rem 0 0;
+  color: var(--muted);
+}
