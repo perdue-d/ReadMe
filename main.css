@@ -1,0 +1,14 @@
+/* main.css — shared styling for all pages */
+
+:root {
+  --bg: #0f1115;
+  --panel: #171a21;
+  --text: #e9edf2;
+  --muted: #aab3c0;
+  --accent: #76bed2;   
+  --accent2: #f6ef9e; 
+  --border: #2a2f3a;
+  --shadow: 0 10px 30px rgba(0,0,0,0.35);
+  --radius: 14px;
+  --maxw: 900px;
+}
