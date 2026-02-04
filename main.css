@@ -65,3 +65,22 @@ nav a:focus {
   outline: 2px solid rgba(246, 239, 158, 0.55);
   outline-offset: 2px;
 }
+main {
+  margin: 1rem auto 1.5rem;
+  padding: 1.25rem;
+  background: rgba(23, 26, 33, 0.75);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+main h2, main h3 {
+  margin-top: 0.25rem;
+  color: var(--accent);
+}
+
+p { color: var(--text); }
+p strong { color: var(--accent2); }
+
+a { color: var(--accent); }
+a:hover { color: var(--accent2); }
