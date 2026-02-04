@@ -38,9 +38,9 @@ For this deliverable I built out the structure of my application using HTML.
 ##CSS deliverable
 For this deliverable I did the following. I checked the box [x] and added a description for things I completed.
 
- - Header, footer, and main content body - I used a common CSS file to style these main.css. The views specific things are in about.css and play.css.
- - Navigation elements - Bootstrap NavBar. What a time saver.
- - Responsive to window resizing - Bootstrap and `display:flex' did most the work here. I'm really happy with the game rendering.
- - Application elements - I used a lot of display:flex to get things to align correctly.
- - Application text content - Set all my text to Helvetica and it looks nice and clean.
+ - Header, footer, and main content body - I used one css file as the base for the majority and had the others add to specfic tabs
+ - Navigation elements - Added stylish bar that looks good and is easy to read and see. 
+ - Responsive to window resizing - It no longer looks like a blog from the early 2000's. 
+ - Application elements - It looks pretty darn good if I do say so my self
+ - Application text content - Easy to read and looks pretty
  - Application images - I left the about image as is.
