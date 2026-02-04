@@ -12,3 +12,6 @@
   --radius: 14px;
   --maxw: 900px;
 }
+* { box-sizing: border-box; }
+
+html, body { height: 100%; }
