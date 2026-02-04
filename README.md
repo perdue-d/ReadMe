@@ -28,9 +28,9 @@ For this deliverable I built out the structure of my application using HTML.
 - I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
 - HTML pages - Two HTML page that represent the ability to login and vote.
 - Proper HTML element usage - I just used div elements for everything.
-- Links - The login page automatically links to the voter page. The voter page contains links for every voting choice.
-- Text - Each of the voting choices is represented by a textual description.
+- Links - The login page automatically links to all the other pages that are need for the app.
+- Text - Each of the pages has the required text to explain what they are for 
 - 3rd party API placeholder - Placeholder for calls to OpenAI.
-- Images - I couldn't figure out how to include an image and so I didn't do this. 😔
-- DB/Login - Input box and submit button for login. The voting choices represent data pulled from the database.
-- WebSocket - The count of voting results represent the tally of realtime votes.
+- Images - Included a copyright free image from a site of free images
+- DB/Login - Input box and submit button for login. Leads to the name of the scoreboard
+- WebSocket - Scoreboard updates as new scores are entered into by the players
